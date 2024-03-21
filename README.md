@@ -1,6 +1,9 @@
 # DICAUVACOOP
 Information about the DiCaUvaCoop project, including the paper annexes.
 
+About DicaUvaCoop Software:
+The DicaUvaCoop software is a comprehensive solution designed to optimize the process of calculating grape quality and its differentiated payment based on quality. This tool has been developed with the intention of being used by any winery cooperative, regardless of its size or experience in grape quality calculation. The primary aim is to encourage more cooperatives to adopt this type of calculation, thereby increasing grape quality and standards year by year.
+
 Contents:
 1. Dicauvacoop_Paper_Axexes
 In this file, you can find Annexes A and B related to the project paper. These annexes provide supplementary information and details that complement the main paper.
